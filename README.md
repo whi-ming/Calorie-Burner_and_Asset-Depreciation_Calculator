@@ -1,4 +1,4 @@
-# asignment 1
+# asignment 1 comp 248 2022
  
 This short project is divided into two parts.
 
